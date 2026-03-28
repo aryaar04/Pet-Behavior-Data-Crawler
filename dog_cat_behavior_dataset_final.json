@@ -1,0 +1,786 @@
+[
+  {
+    "id": 1,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Some forms of vocalization are associated with communication, especially with regard to estrus cycles and mating, in adult male and female cats that are not yet neutered. Cats in estrus are particularly vocal at “calling.” Neutering should help to reduce vocalization in these cats.",
+    "source_url": "https://vcahospitals.com/know-your-pet/cat-behavior"
+  },
+  {
+    "id": 2,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "However, learning and early socialization are even more important than genetics. Studies have shown that mixed-breed dogs are at highest risk for noise phobias, perhaps because they may spend their early days in less-than-ideal circumstances, while purebred puppies are often raised by breeders who understand the importance of positive early experiences.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-certain-sounds-scare-dogs"
+  },
+  {
+    "id": 3,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "Learning why your dog brings you their favorite toy when you come home can help you appreciate this behavior and deepen your bond, making each homecoming a special moment you both can enjoy.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-bring-you-toys-when-you-get-home"
+  },
+  {
+    "id": 4,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "Reinforcing tail-chasing may lead to your dog using the behavior to command attention. Even negative reinforcement, such as yelling at your dog, can inadvertently reinforce the behavior, so it's best not to encourage tail chasing in the first place and ignore it if it does happen.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-chase-their-tails"
+  },
+  {
+    "id": 5,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "Dog pawing begins as an instinctive behavior in puppies. And as they age, dogs learn pawing is a useful communication tool because pawing usually results in pet parents tending to their dog.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-put-their-paws-on-people"
+  },
+  {
+    "id": 6,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "But because not all pawing is a request for attention, it’s important to be aware of what else your dog is doing. Their body language can give you important information about their emotions and what they’re trying to accomplish by pawing at you.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-put-their-paws-on-people"
+  },
+  {
+    "id": 7,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "If a dog lifts their paw without touching anything, this might be a sign of stress. But touching someone can also be a stress response, especially if they’re trying to push you away with their paw.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-put-their-paws-on-people"
+  },
+  {
+    "id": 8,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "The best way to truly understand what your dog is feeling is to learn more about canine body language. Our dogs have plenty to say to us, but it’s up to us to decipher their side of the conversation. We tend to layer human emotions on top of dog behavior, like saying a dog is feeling guilty about stealing a sandwich from your plate, instead of acknowledging that the tucked tail and sad eyes are an attempt to prevent you from getting angry.",
+    "source_url": "https://www.petmd.com/dog/behavior/can-dogs-feel-embarrassed"
+  },
+  {
+    "id": 9,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Once this bond is established, you’ll still need to understand cat body language to know what your kitty is telling you. Cats often interact using covert signals, including blinking, tail movements, and rubbing against other animals or humans.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-do-cats-rub-against-you"
+  },
+  {
+    "id": 10,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "territorial_behavior",
+    "content": "Cats are territorial creatures and will claim their pet parents as part of their territory. So not only is rubbing against you a sign of a happy “hello” or “welcome home,” but cats also want to make sure that they have marked you with their scent.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-do-cats-rub-against-you"
+  },
+  {
+    "id": 11,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "play_behavior",
+    "content": "Cats also thrive when they have enough mental stimulation (through play, interaction with their favorite people, the ability to express natural hunting instincts, and the satisfaction of sating their curiosity).",
+    "source_url": "https://www.petmd.com/cat/behavior/why-your-cat-ignoring-you"
+  },
+  {
+    "id": 12,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "general_behavior",
+    "content": "Scratching is a normal, instinctive feline behavior, not a misbehavior. Cats scratch to mark territory, stretch their muscles, maintain healthy nails, and relieve stress. Instead of trying to eliminate scratching—which isn’t possible or healthy—the goal is to redirect the behavior to appropriate outlets like scratching posts and boards.",
+    "source_url": "https://www.petmd.com/cat/behavior/how-to-stop-cats-from-scratching-furniture"
+  },
+  {
+    "id": 13,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "territorial_behavior",
+    "content": "In the wild, territorial scratching behavior most often manifests as scratching at upright tree trunks. This way, the visual cue of the torn bark is at eye level, and the chemical cue of the pheromone from the scent glands is at nose level for other cats.",
+    "source_url": "https://www.petmd.com/cat/behavior/how-to-stop-cats-from-scratching-furniture"
+  },
+  {
+    "id": 14,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "territorial_behavior",
+    "content": "In house cats, this preference for vertical surfaces means that the arms of couches and the legs of unvarnished wooden furniture may be common targets for territorial scratching. The fabric on the arms of couches rips easily, and unvarnished wood may splinter easily when scratched. As such, cats gravitate toward these materials.",
+    "source_url": "https://www.petmd.com/cat/behavior/how-to-stop-cats-from-scratching-furniture"
+  },
+  {
+    "id": 15,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "aggression",
+    "content": "It’s also recommended to see your primary veterinarian if your cat has shown redirected aggression, especially if it’s the first episode you’ve observed and you aren’t able to identify the cause. Aggression of any kind in cats can sometimes be related to medical issues, such as pain, hormonal problems like hyperthyroidism, or neurological conditions.",
+    "source_url": "https://www.petmd.com/cat/behavior/redirected-aggression-cats-why-it-happens-and-what-do"
+  },
+  {
+    "id": 16,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "aggression",
+    "content": "In many cases, though, it may be difficult to completely remove the inciting cause of the redirected aggression. When the stressor cannot be removed completely, it may be better to work on counterconditioning your cat to react less strongly.",
+    "source_url": "https://www.petmd.com/cat/behavior/redirected-aggression-cats-why-it-happens-and-what-do"
+  },
+  {
+    "id": 17,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "play_behavior",
+    "content": "Cat facial pheromones have a calming and reassuring effect, so headbutting can be a sign your cat is content. Both before and during headbutting, a cat may flop over playfully, purr, partially close their eyes, or exhibit other relaxed behaviors and body language.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-does-my-cat-headbutt-me"
+  },
+  {
+    "id": 18,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "territorial_behavior",
+    "content": "This type of marking behavior claims a territory as familiar and in a positive way. Think of it as your cat personalizing their surroundings and creating a safe space, as opposed to making a territorial challenge to other cats like they would by urine marking or spraying.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-does-my-cat-headbutt-me"
+  },
+  {
+    "id": 19,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Thanks to their very keen sense of smell, much of cats’ communication is through scents in their environment. And though you cannot detect it, the fact that you smell like your cat is very reassuring to them.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-does-my-cat-headbutt-me"
+  },
+  {
+    "id": 20,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Move slowly and watch the cat’s body language before reacting. You could offer the cat your hand for a sniff. If they show interest, you could try giving them a gentle pet or head scratch, but always be careful around animals you don't know well.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-does-my-cat-headbutt-me"
+  },
+  {
+    "id": 21,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "general_behavior",
+    "content": "The predominant idea behind cat butt wiggling is that it’s a little bit of both instinct and learning. Kittens begin to practice hunting behaviors when they’re as young as 6–7 weeks old, and this may include attempts at the butt wiggle seen in older cats.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-do-cats-wiggle-before-they-pounce"
+  },
+  {
+    "id": 22,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "play_behavior",
+    "content": "A hiss can also change based on the given situation. A hiss can range from a silent, open-mouth hiss that is more a visual sign of unhappiness, to an aggressive hiss with full-on spitting. Common cat body language cues that are displayed with hissing are:",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-hissing-what-you-need-know"
+  },
+  {
+    "id": 23,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "fear_anxiety",
+    "content": "When they are calm, coax your cat out with food and/or catnip and positive reinforcement. Rewards like cat toys, cat treats, or canned cat food can sometimes help relieve the anxiety and stress associated with cat hissing.",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-hissing-what-you-need-know"
+  },
+  {
+    "id": 24,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "fear_anxiety",
+    "content": "Once you’ve met with a behaviorist and your cat has been prescribed any medications she needs to help control her fear, you’ll likely be instructed to start behavior modification techniques. In the case of fear, this often involves counterconditioning and desensitization.",
+    "source_url": "https://www.petmd.com/cat/behavior/how-comfort-scared-cat"
+  },
+  {
+    "id": 25,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "play_behavior",
+    "content": "For example, if your cat is afraid of thunderstorms, counterconditioning and desensitization may likely start with playing the sound of crashing thunder at a low-enough level that your cat does not react.",
+    "source_url": "https://www.petmd.com/cat/behavior/how-comfort-scared-cat"
+  },
+  {
+    "id": 26,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "fear_anxiety",
+    "content": "While fear is a normal, adaptive response, sometimes a dog’s fear response can reach more extreme levels that require intervention. Profound fear and anxiety can lead to unhealthy and potentially dangerous behaviors within dogs.",
+    "source_url": "https://www.petmd.com/dog/conditions/behavioral/c_dg_fears_phobia_anxiety"
+  },
+  {
+    "id": 27,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "fear_anxiety",
+    "content": "A dog with an underlying health problem (pain, internal issue, heart issue, neurological issue, or doggy dementia) may also suddenly develop behavioral problems and fear of storms.",
+    "source_url": "https://www.petmd.com/dog/conditions/behavioral/c_dg_thunderstorm_phobias"
+  },
+  {
+    "id": 28,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "fear_anxiety",
+    "content": "Storm phobia is a specific type of fear response that a dog displays from the clues that appear even before a storm arrives, such as darkening skies, rain, gusts of wind, the scent of ozone, and changes in barometric pressure. Dogs with storm phobia may even continue to show fearful behavior for hours to days after the storm is over.",
+    "source_url": "https://www.petmd.com/dog/conditions/behavioral/c_dg_thunderstorm_phobias"
+  },
+  {
+    "id": 29,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "Puppies need to be introduced to new objects and experiences slowly. Stand at a distance where the puppy can first observe the stimuli and take in the sights without feeling overwhelmed. Watch the puppy’s body language for negative responses, such as:",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-socialize-puppy"
+  },
+  {
+    "id": 30,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "fear_anxiety",
+    "content": "The exact cause of separation anxiety in dogs is not usually known. However, genetic and environmental factors or early negative experiences in a pup’s life may contribute to the development of separation anxiety.",
+    "source_url": "https://www.petmd.com/dog/conditions/behavioral/separation-anxiety-dogs"
+  },
+  {
+    "id": 31,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "When you bring home a new puppy, socialize them and teach them how to spend time by themselves. Start early and use positive reinforcement to reward behaviors you want to continue. Never use any form of negative reinforcement or punishment.",
+    "source_url": "https://www.petmd.com/dog/conditions/behavioral/separation-anxiety-dogs"
+  },
+  {
+    "id": 32,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "vocalization",
+    "content": "Training is another way to stop some forms of excessive dog barking. The most successful method is positive reinforcement, which strengthens or increases behavior by delivering something the dog wants right after they perform the desired behavior.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-stop-a-dog-from-barking"
+  },
+  {
+    "id": 33,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "vocalization",
+    "content": "Once your dog learns the calm verbal cue, “quiet,” you can use it during times of unwanted barking, such as the ring of a doorbell or the sound of other dogs barking, to prompt the quiet response (aka to stop the barking). When your dog stops barking when they hear the cue, toss them a treat or two as reinforcement.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-stop-a-dog-from-barking"
+  },
+  {
+    "id": 34,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "vocalization",
+    "content": "If your dog barks for attention or to get something from you, it’s important that you don’t reinforce their barking by attending to them at that moment. Instead, identify what they need and use positive reinforcement to teach a replacement behavior. For example, if a dog learns that sitting by the door is what gets you to open it and that barking doesn’t, they will be more likely to sit by the door instead of bark.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-stop-a-dog-from-barking"
+  },
+  {
+    "id": 35,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "When a dog is shocked or sprayed with something, they may stop barking for the moment—though, they might not. They may also become increasingly frustrated, scared, and anxious about having a primary source of communication shut down. This is emotionally unhealthy for dogs and leaves us at a disadvantage because we will no longer be aware of our dog’s physical or emotional state.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-stop-a-dog-from-barking"
+  },
+  {
+    "id": 36,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "Communication—Your dog may howl to communicate with you or other dogs. They may use this vocalization to signal their whereabouts to other dogs and as an invitation to have a meet and greet.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-howl-at-sirens"
+  },
+  {
+    "id": 37,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "If your dog howls at sirens, it doesn’t necessarily mean that the noise bothers your dog or causes them pain. Dogs use body language to express their emotions, and if your canine friend is howling but not showing other signs of stress—such as lip licking, hiding, shaking, or lifting a front limb—they are likely not distressed or upset by the sound.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-howl-at-sirens"
+  },
+  {
+    "id": 38,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "While the scratch reflex doesn't necessarily mean your dog likes being scratched in that particular area, it doesn't necessarily indicate discomfort either. You'll have to distinguish the difference by reading your dog’s body language.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-belly-rubs"
+  },
+  {
+    "id": 39,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "Some dogs also instinctively lie on their pet parents when the pet parents are experiencing emotional distress. Dogs might do this to comfort the pet parent or want to be comforted because they are distressed by their pet parents’ behavior.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-does-my-dog-lie-on-me"
+  },
+  {
+    "id": 40,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Chemical communication through pheromones was probably the first form of communication to evolve in animals, says Dr. Valarie Tynes, DVM, President of the American College of Veterinary Behaviorists and a Veterinary Services Specialist with Ceva Animal Health in Lenexa, Kansas. “Pheromones have evolved over thousands of years to enable animals to communicate within their species and between species,” Dr. Tynes says.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-do-calming-dog-and-cat-pheromones-work"
+  },
+  {
+    "id": 41,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "fear_anxiety",
+    "content": "Using synthetic calming pheromones for cats and dogs can help comfort an animal by sending reassuring messages. “In any situation creating anxiety, pheromones can help to reduce the stress felt by pets,” explains Dr. Tynes. “These situations can include things like changes in the home, learning new things, or discomfort or conflict with other pets in the home.”",
+    "source_url": "https://www.petmd.com/dog/behavior/how-do-calming-dog-and-cat-pheromones-work"
+  },
+  {
+    "id": 42,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "Be familiar with dog body language so you can react appropriately if either dog starts showing signs of reactivity or discomfort. A dog who’s feeling unsure about a potential meeting might:",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-introduce-dogs"
+  },
+  {
+    "id": 43,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "If either dog exhibits these behaviors, call off the introduction and reassess whether it’s the right thing to do. Ideally, you want to see loose and wiggly body language, with frequent glances in your direction.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-introduce-dogs"
+  },
+  {
+    "id": 44,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "There are many speculations as to why dogs eat grass. Many people believe that when dogs eat grass, they are trying to make themselves vomit. They think it’s an instinctive behavior that a dog engages in to rid themselves of something they should not have eaten.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-eat-grass"
+  },
+  {
+    "id": 45,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "The “positive” in positive reinforcement doesn’t mean “good.” It means “added.” Reinforcement means to make something stronger. When using this method to train a pup, you add something immediately after the behavior that will strengthen that behavior throughout the dog’s training. The thing we add is typically something the dog likes or wants, like a treat or a belly rub. If the behavior doesn’t happen consistently over a period of time, positive reinforcement has not been achieved.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-train-a-dog-with-positive-reinforcement"
+  },
+  {
+    "id": 46,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "If you are training your dog and the desired behavior is not happening more often when asked, then you are not successfully using positive reinforcement. “Positive reinforcement doesn’t work” is a statement that isn’t actually true. It is more accurate to say that “positive reinforcement has not occurred,” which means there is something wrong with the execution.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-train-a-dog-with-positive-reinforcement"
+  },
+  {
+    "id": 47,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "Positive reinforcement means adding something immediately after a behavior occurs and negative reinforcement means taking something away immediately after the behavior occurs. With negative reinforcement, the “something” that is taken away or removed is usually something the dog does not find pleasant and would like to avoid. For example, if there is something happening the dog thinks is scary, like a person running toward them or trying to pet them, they may snap at them. If the scary thing stops or goes away, then snapping may have been negatively reinforced.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-train-a-dog-with-positive-reinforcement"
+  },
+  {
+    "id": 48,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "When training your dog with positive reinforcement, you deliver a physical or verbal prompt for a behavior, wait for the dog to complete the behavior, and deliver something the dog wants. Repeat this process several times to assess the change in the behavior. Is the dog sitting more reliably, more frequently, or faster?",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-train-a-dog-with-positive-reinforcement"
+  },
+  {
+    "id": 49,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "fear_anxiety",
+    "content": "Whining can be your dog asking for attention, playtime, or a bathroom break. However, whining can also signal pain or anxiety. Pay attention to your dog's body language and context clues to decipher the underlying cause.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-sigh"
+  },
+  {
+    "id": 50,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "What's “normal” for one dog might not be for another. Understanding the context clues and body language can help you meet your dog's needs. However, if sighing is a new behavior or is accompanied by other changes in behavior, schedule a visit with your vet to make sure everything is OK.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-sigh"
+  },
+  {
+    "id": 51,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "Learning to read what your dog is communicating is one of the most important things you can do to strengthen your relationship with them. While every dog will have their own unique nuances to their communication style, most dogs rely on similar postures to convey how they’re feeling.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-read-dog-body-language"
+  },
+  {
+    "id": 52,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "play_behavior",
+    "content": "When reading a dog’s body language, it’s important to note that the dog’s entire body plays a role in signaling; for example, a wagging tail doesn’t necessarily mean that a dog is happy or relaxed, especially if the rest of their body is stiff.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-read-dog-body-language"
+  },
+  {
+    "id": 53,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "What used to be known as “submissive” behavior is now what we call appeasement body language. With appeasement gestures, the dog tries to appear small and as less of a threat. They might lower their body to the ground, or even flip over on their back to expose their stomach.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-read-dog-body-language"
+  },
+  {
+    "id": 54,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "Aggressive dog body language is rigid and tense, with minimal movement. The fur might be raised straight up (also called piloerection), particularly across the shoulders and at the base of the spine near the tail. The dog’s weight will be shifted forward in a stiff-legged “ready” stance.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-to-read-dog-body-language"
+  },
+  {
+    "id": 55,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "On a basic level, dogs do feel love. According to Vanessa Spano, DVM, DACVB, senior veterinarian behaviorist at the Schwarzman Animal Medical Center in New York City, the neurobiology of “love” involves the hormones oxytocin, dopamine, serotonin, and norepinephrine.",
+    "source_url": "https://www.chewy.com/education/dog/training-and-behavior/does-my-dog-love-me-2?utm_source=petmd.com&utm_medium=referral&utm_campaign=dog&utm_term=dogs+can+experience+love&utm_content=/dog/behavior/why-do-dogs-put-their-paws-on-people"
+  },
+  {
+    "id": 56,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "Dr. Spano says that, just like humans, dogs have their own love languages, so pay attention to your dog’s body language during social interactions. Tense muscles, a tucked or very stiff tail, ears back, lip licking, and yawning are signs that they’re anxious or apprehensive.",
+    "source_url": "https://www.chewy.com/education/dog/training-and-behavior/does-my-dog-love-me-2?utm_source=petmd.com&utm_medium=referral&utm_campaign=dog&utm_term=dogs+can+experience+love&utm_content=/dog/behavior/why-do-dogs-put-their-paws-on-people"
+  },
+  {
+    "id": 57,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "Dogs have a lot to say, and they communicate through body language, facial expressions, and vocal signals like whines, growls, grunts, and barks. But wouldn’t it be convenient to add the English language to the list of ways dogs can express what they want and how they feel?",
+    "source_url": "https://www.petmd.com/dog/behavior/how-do-talking-dog-buttons-work"
+  },
+  {
+    "id": 58,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "This is where talking dog buttons come in. You may have seen the dog Bunny and her talking buttons on TikTok or Instagram and wondered if your dog could learn to talk using buttons. Here’s everything you wanted to know about this new way of canine communication—because who wouldn’t want to have a conversation with their dog?",
+    "source_url": "https://www.petmd.com/dog/behavior/how-do-talking-dog-buttons-work"
+  },
+  {
+    "id": 59,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "The buttons are based on alternative and augmentative communication (AAC) devices that give non-verbal people a way to communicate. The sound boards for dogs have circular buttons with words on them, each pre-recorded to say the word when pressed.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-do-talking-dog-buttons-work"
+  },
+  {
+    "id": 60,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "The buttons are potentially another way for pet parents to have a richer communication with our dogs. Think about it—understanding if your dog needs to go out to use the bathroom is helpful. Many dogs stand silently by the door waiting for someone to notice, but this signal can be easily missed. An auditory signal, such as a dog pushing a button that says “Outside,” would certainly be helpful.",
+    "source_url": "https://www.petmd.com/dog/behavior/how-do-talking-dog-buttons-work"
+  },
+  {
+    "id": 61,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "general_behavior",
+    "content": "You can use this information to your benefit when training your dog. Your dog is always looking for positive reinforcement from you to guide behavior development. When your dog does something right, make sure to communicate this with your whole face and your voice; that way, your dog will be more attune to your signals and more likely to repeat the desired dog behavior.",
+    "source_url": "https://www.petmd.com/dog/behavior/do-dogs-have-sixth-sense-helps-them-read-your-mood"
+  },
+  {
+    "id": 62,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "general_behavior",
+    "content": "Learning and avoiding what causes your dog stress, ruling out possible underlying illnesses, and seeking professional help will all improve the quality of life for your anxious dog.",
+    "source_url": "https://www.petmd.com/dog/behavior/evr_dg_how-to-calm-down-an-anxious-dog"
+  },
+  {
+    "id": 63,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "Most dogs love pleasing their owners and know that smiling is human body language for happiness. The majority of dogs are very good at interpreting human body language. They can tell when we are pleased, sad, or disappointed.",
+    "source_url": "https://www.petmd.com/dog/behavior/do-dogs-smile-science-behind-looks-we-get-happy-dog"
+  },
+  {
+    "id": 64,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "aggression",
+    "content": "Dogs tend to read the body language that goes along with a human’s smile. They often instinctively understand that smiling and showing teeth is not a human form of aggression (as it might be with other dogs), even if the person is a stranger.",
+    "source_url": "https://www.petmd.com/dog/behavior/do-dogs-smile-science-behind-looks-we-get-happy-dog"
+  },
+  {
+    "id": 65,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "Once again, a dog’s body language is key. Not only are they showing their teeth with their lips drawn back, but they are also usually lowering their heads and squinting their eyes. Often, their ears are flattened, their tail is wagging, and their body posture looks submissive.",
+    "source_url": "https://www.petmd.com/dog/behavior/do-dogs-smile-science-behind-looks-we-get-happy-dog"
+  },
+  {
+    "id": 66,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "play_behavior",
+    "content": "Look at your dog’s body language. A happy dog will have a relaxed body posture and often, a wagging tail. Their face will look soft and calm, and if they’re playing or running, you’ll often see a wide, panting smile.",
+    "source_url": "https://www.petmd.com/dog/behavior/do-dogs-smile-science-behind-looks-we-get-happy-dog"
+  },
+  {
+    "id": 67,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "Some dogs are in tune with their pet parents’ body language. They may ask for attention from you when you’re relaxed and avoid you when you appear tense and angry. Some dogs may also try to approach and provide comfort when you appear sad or upset.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-does-my-dog-stare-at-me"
+  },
+  {
+    "id": 68,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "play_behavior",
+    "content": "Eye contact is definitely a form of communication that dogs use with humans. Some dogs stare to attract your attention and then follow up with further communication, such as a play bow or walking over to where their leash is kept. If your dog offers playful body language after staring at you, try engaging them with their favorite tug toy or a game of fetch.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-does-my-dog-stare-at-me"
+  },
+  {
+    "id": 69,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "communication",
+    "content": "If you’re ever concerned about a dog’s stare, you’re never wrong to look away and slowly back away while facing the dog. If the dog was uncomfortable and you move away, you should see a relaxation in their body language.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-does-my-dog-stare-at-me"
+  },
+  {
+    "id": 70,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "Think of this like bringing postcards home from your vacation. When a dog returns to their pack, they are bringing back the smells of the places where they’ve spent time. This allows the other members of the pack to follow the trail back to the source and to any food that was found nearby. So in a way, rolling in feces is a form of communication amongst a pack—sort of the dog version of a social media post.",
+    "source_url": "https://www.petmd.com/dog/behavior/why-do-dogs-roll-poop"
+  },
+  {
+    "id": 71,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "Kicking the hind legs after elimination is known as ground-scratching, and it is a normal dog behavior. This behavior has been seen in dogs and wild canids, such as wolves and coyotes. Many animal scientists think it’s a form of communication among dogs.",
+    "source_url": "https://www.petmd.com/dog/behavior/dog-behavior-why-do-dogs-kick-their-feet-after-pooping"
+  },
+  {
+    "id": 72,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "play_behavior",
+    "content": "Ground-scratching has been referred to as a composite signal that involves chemical and visual components of communication. The kicking motion is a visual display for other dogs and may help spread the scent of urine. Since urine odors are short-lasting, the slashes on the ground serve as longer-lasting marks to indicate the dog’s presence in the area.",
+    "source_url": "https://www.petmd.com/dog/behavior/dog-behavior-why-do-dogs-kick-their-feet-after-pooping"
+  },
+  {
+    "id": 73,
+    "topic": "behavior",
+    "species": "dog",
+    "subtopic": "territorial_behavior",
+    "content": "Researchers have found that ground-scratching occurred more often along territorial boundaries in free-ranging dogs. For dogs that belong to someone, their pet parents may notice ground-scratching is more likely to occur in their yard, in front of the house, or on grounds near their house.",
+    "source_url": "https://www.petmd.com/dog/behavior/dog-behavior-why-do-dogs-kick-their-feet-after-pooping"
+  },
+  {
+    "id": 74,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "communication",
+    "content": "Cats don’t tend to wear their emotions on their sleeves, like many dogs do. However, cats experience the full range of emotions like any other animal, and with a little careful observation of their body language and practice, you will be able to tell if your cat is happy and enjoying life.",
+    "source_url": "https://www.petmd.com/cat/behavior/is-my-cat-happy"
+  },
+  {
+    "id": 75,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Our feline friends have their own cat language to communicate their thoughts and emotions. They use both their body (including their eyes, ears, whiskers, and tail) and their voice to show what they are thinking and feeling. By learning the body language of a cat, we can better understand and fulfill our kitties’ wants and needs.",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-body-language"
+  },
+  {
+    "id": 76,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Note that when you’re interpreting cat body language, consider everything that’s going on around the cat. Put yourself in the cat’s paws and ask how the situation and environment—including the sights, sounds, and smells—might make them feel. For example, if a person is cornering a cat, even unintentionally, the cat might feel scared or threatened. If a cat looks upset for no reason, they may be sick or in pain.",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-body-language"
+  },
+  {
+    "id": 77,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "play_behavior",
+    "content": "Cats are predators with a natural instinct to hunt. When they want to play, they may act like they are hunting by crouching down, wiggling their rear-end, and chasing, pouncing on, or grabbing hold of a toy.",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-body-language"
+  },
+  {
+    "id": 78,
+    "topic": "behavior",
+    "species": "both",
+    "subtopic": "aggression",
+    "content": "If a cat exhibits body language consistent with fear, remove the threat. Never attempt to pick up a growling or hissing cat, as this may cause a scared cat to resort to aggression. Many cats may seek a safe space when fearful, so their environment should have plenty of hiding spots and perches that they can easily and quickly access.",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-body-language"
+  },
+  {
+    "id": 79,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "When a cat closes their eyes, it’s associated with positive emotional communication. “Slow blinking” is a term used to describe when cats hold their eyelids almost closed and perform a slow wink in one or both eyes. It typically involves a series of half-blinks and eyelid narrowing.",
+    "source_url": "https://www.petmd.com/cat/behavior/do-cats-blink"
+  },
+  {
+    "id": 80,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "fear_anxiety",
+    "content": "Reading your cat’s body language will help you determine how your kitty feels about particular interactions. This allows you to identify the situations or environments that make your cat happy or cause fear. Reading the tail language of a cat can also help you identify illness and pain more readily.",
+    "source_url": "https://www.petmd.com/cat/behavior/evr_ct_what-does-it-mean-when-a-cat-wags-tail"
+  },
+  {
+    "id": 81,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Although you should look at more than just their tail movements, to fully understand your cat’s emotional state, the tail may be the most expressive part of a cat’s body language. Better understanding your cat’s body language will surely improve your bond with your cat.",
+    "source_url": "https://www.petmd.com/cat/behavior/evr_ct_what-does-it-mean-when-a-cat-wags-tail"
+  },
+  {
+    "id": 82,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Have you ever found yourself on the receiving end of gentle nibbles from your feline companion? Often referred to as “love bites,” these delicate gestures are a unique form of communication that allow your cat to express their feelings and needs. Here’s what to know about cat love bites.",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-love-bites"
+  },
+  {
+    "id": 83,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Understanding the rest of the cat’s body language and the context in which the love bite occurs is essential for knowing the motivation behind each bite. For instance, your cat may love-bite as a subtle request to end a lengthy petting session or as a plea for prolonged affection.",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-love-bites"
+  },
+  {
+    "id": 84,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "aggression",
+    "content": "Cats bite when they want an interaction or situation to stop due to fear, anxiety, and/or pain. Real bites are often accompanied by other body language indicating fear and aggression, including:",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-love-bites"
+  },
+  {
+    "id": 85,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Understanding your cat’s body language is key to preventing love bites altogether. Pay attention to their tolerance for petting and heed warning signs that they’ve had enough, such as muscle tension, a twitching tail, or dilated pupils.",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-love-bites"
+  },
+  {
+    "id": 86,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "aggression",
+    "content": "It can be difficult to understand aggression in cats because cat communication in general is pretty complex. Cats use a variety of methods to communicate with other cats, including:",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-aggression-fighting-biting-and-attacking"
+  },
+  {
+    "id": 87,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "aggression",
+    "content": "Territorial aggression occurs when a human or animal, especially during a new introduction, tries to enter the cat’s established area within a household. The cat may interpret this as a challenge and lash out to defend their domain.",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-aggression-fighting-biting-and-attacking"
+  },
+  {
+    "id": 88,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "play_behavior",
+    "content": "Kittens often meow a lot more than older cats, in part because they are still developing their communication skills. Most of the time, kittens are trying to communicate a need or want, like food, attention, or playtime.",
+    "source_url": "https://www.petmd.com/cat/behavior/cat-meowing"
+  },
+  {
+    "id": 89,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "play_behavior",
+    "content": "So, we've busted some myths. Strange cat behavior isn’t that strange after all. It is merely natural instincts coming through. And just because we don't put cats on pedestals anymore doesn't mean they don't like it up there. Indeed, you'll find that the higher the pedestal, the happier your cat will be. Just make sure your cat has something to play with up there — or watch out!",
+    "source_url": "https://www.petmd.com/cat/training/evr_ct_behavior"
+  },
+  {
+    "id": 90,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "A cat purring has mostly been associated with contentment, excitement, or other positive emotional states. When a cat is purring with content, they have a relaxed facial expression and body language. Cats have been known to purr when they are:",
+    "source_url": "https://www.petmd.com/cat/behavior/why-do-cats-purr"
+  },
+  {
+    "id": 91,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Beaver, B. (2003) Feline Behavior: A Guide for Veterinarians. 2nd ed. Philadelphia: Saunders. Brown, S and Bradshaw, J. (2014) ‘Communication in the domestic cat: within- and between-species’, in Turner, D. C. and Bateson, P. (eds) The Domestic Cat: the Biology of its Behaviour. 3rd ed. Cambridge University Press, pp. 37–59. Tavernier, C. et al. (2020) “Feline vocal communication,” Journal of Veterinary Science, 21(1), pp. 1–17.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-do-cats-purr"
+  },
+  {
+    "id": 92,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "communication",
+    "content": "Brown, S and Bradshaw, J. (2014) ‘Communication in the domestic cat: within- and between-species’, in Turner, D. C. and Bateson, P. (eds) The Domestic Cat: the Biology of its Behaviour. 3rd ed. Cambridge University Press, pp. 37–59.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-do-cats-purr"
+  },
+  {
+    "id": 93,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "fear_anxiety",
+    "content": "When your cat is having a moderate or severe fear response, it is okay to attempt to comfort or soothe your cat. This does not “reward” the fearful behavior, contrary to popular belief.",
+    "source_url": "https://www.petmd.com/cat/conditions/behavioral/c_ct_fear_phobia_anxiety"
+  },
+  {
+    "id": 94,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "aggression",
+    "content": "Absolutely avoid punishment for behavior related to fear, phobia, or anxiety, as this will only increase the fear response. It can even lead to aggression toward the person administering the punishment. This includes techniques like yelling at and squirting your cat with a water bottle.",
+    "source_url": "https://www.petmd.com/cat/conditions/behavioral/c_ct_fear_phobia_anxiety"
+  },
+  {
+    "id": 95,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "fear_anxiety",
+    "content": "Two methods of behavior modification that may be recommended by your vet are desensitization and counterconditioning. Both of these methods require specific timing and the ability to read your cat’s body language and decode your cat’s tail movements to notice the earliest signs of fear and stress.",
+    "source_url": "https://www.petmd.com/cat/conditions/behavioral/c_ct_fear_phobia_anxiety"
+  },
+  {
+    "id": 96,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "play_behavior",
+    "content": "Start by giving your kitten some space. Putting physical distance between you can help your kitten feel more confident, especially when paired with play that simulates a kitten’s natural hunting instincts. Giving treats and praise for calm play around people further reinforces this positive association.",
+    "source_url": "https://www.petmd.com/cat/behavior/how-to-socialize-kittens"
+  },
+  {
+    "id": 97,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "general_behavior",
+    "content": "To some degree, hiding in an instinctual behavior in all cats because they are more active during dawn and dusk. Because of this, cats may find a secluded area to rest in during the day.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-is-my-cat-hiding"
+  },
+  {
+    "id": 98,
+    "topic": "behavior",
+    "species": "cat",
+    "subtopic": "fear_anxiety",
+    "content": "Anxiety can come from sources like recent moves, new two-legged or four-legged additions to the family, the loss of a family member, or a change in the family’s routines. Hiding may also be a fear response in cats to things like unfamiliar visitors, loud noises, or bullying by other pets in the household—especially other cats.",
+    "source_url": "https://www.petmd.com/cat/behavior/why-is-my-cat-hiding"
+  }
+]
